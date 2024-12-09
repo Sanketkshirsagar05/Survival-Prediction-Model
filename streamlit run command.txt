@@ -1,0 +1,5 @@
+1. Anaconda navigator
+2. Environment
+3. Select Environment
+4. Terminal
+5. streamlit run "path of app.py file"    enter in terminal
