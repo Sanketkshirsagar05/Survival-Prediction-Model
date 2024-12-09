@@ -33,7 +33,7 @@ if (selected == 'Survival Prediction'):
         Age = st.text_input('Age')
         
     with col4:
-        Fare = st.text_input('Fare')
+        Fare = st.text_input('Ticket Price in $')
 
     # Convert input values to appropriate data types when button is clicked
     if st.button('Survival Test Result'):
