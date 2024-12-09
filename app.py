@@ -4,9 +4,9 @@ from streamlit_option_menu import option_menu
 from sklearn.preprocessing import StandardScaler
 
 # This file contains the trained machine learning model
-survival_model = pickle.load(open('C:\\Users\\sanke\\OneDrive\\Desktop\\Excelr\\Data Science\\Assignment\\7.Logistic Regression\\Logistic Regression\\survival_prediction_model.sav', 'rb'))
+survival_model = pickle.load(open('survival_prediction_model.sav', 'rb'))
 #This file contains the scaled data
-scaler = pickle.load(open('C:\\Users\\sanke\\OneDrive\\Desktop\\Excelr\\Data Science\\Assignment\\7.Logistic Regression\\Logistic Regression\\scaler.sav', 'rb'))  
+scaler = pickle.load(open('scaler.sav', 'rb'))  
 
 # Sidebar for navigation
 with st.sidebar:
