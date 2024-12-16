@@ -1,4 +1,4 @@
-# Survival-Prediction-Model
+![Survival-Prediction-Model](https://github.com/user-attachments/assets/20b82e4c-dff6-4b2d-96f6-79da4487525d)# Survival-Prediction-Model
 
 Website of steamlit : https://survival-prediction-model-n8qmjra3wngeuexe7pqfnv.streamlit.app/
 
@@ -45,3 +45,15 @@ To run the project, ensure you have the following installed:
 Install dependencies with:
 ```bash
 pip install -r requirements.txt
+
+## Result
+
+Random Forest achieved the highest accuracy and ROC-AUC score, making it the best-performing model.
+Key insights from the dataset:
+- Gender: Females had a higher survival rate.
+- Class: First-class passengers had the highest survival chances.
+- Family size: Smaller family sizes correlated with better survival probabilities.
+
+![Alt Text](![Survival-Prediction-Model](https://github.com/user-attachments/assets/cf0f0c41-f381-4744-b5ea-5e508ca6dad9)
+ "Streamlit App Demo")
+
