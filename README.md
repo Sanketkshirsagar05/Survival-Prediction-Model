@@ -42,9 +42,6 @@ To run the project, ensure you have the following installed:
 - Python 3.x
 - Libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
 
-Install dependencies with:
-```bash
-pip install -r requirements.txt
 
 ## Result
 
