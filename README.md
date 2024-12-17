@@ -45,11 +45,5 @@ To run the project, ensure you have the following installed:
 
 ## Result
 
-Random Forest achieved the highest accuracy and ROC-AUC score, making it the best-performing model.
-Key insights from the dataset:
-- Gender: Females had a higher survival rate.
-- Class: First-class passengers had the highest survival chances.
-- Family size: Smaller family sizes correlated with better survival probabilities.
-
 ![Survival-Prediction-Model](https://github.com/user-attachments/assets/20b82e4c-dff6-4b2d-96f6-79da4487525d)
 
