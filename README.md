@@ -36,6 +36,7 @@ The dataset used is the well-known Titanic dataset from [Kaggle](https://www.kag
 - **Embarked**: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
 - **Survived**: Target variable indicating survival (1 = Survived, 0 = Not Survived)
 
+
 ## Requirements
 
 To run the project, ensure you have the following installed:
